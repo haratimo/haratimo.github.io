@@ -1,0 +1,26 @@
+<svg fill="none" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 width="800px" height="800px" viewBox="0 0 101.38 101.379"
+	 xml:space="preserve">
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="icon-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FACC15; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFAA00; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Icon Paths -->
+  <g>
+    <g>
+      <path d="M100.622,70.318L80.839,50.535c6.242-8.051,5.687-19.706-1.703-27.095c-8.01-8.01-21.044-8.01-29.054,0
+			c-8.01,8.011-8.01,21.044,0,29.055c7.389,7.389,19.043,7.944,27.095,1.703L96.96,73.98c1.013,1.012,2.651,1.012,3.662,0.001
+			C101.633,72.969,101.633,71.331,100.622,70.318z M75.473,48.832c-5.99,5.991-15.738,5.992-21.729,0
+			c-5.991-5.99-5.991-15.738,0-21.729c5.99-5.99,15.738-5.992,21.729,0C81.464,33.093,81.464,42.841,75.473,48.832z"
+        fill="url(#icon-gradient)" />
+      <path d="M5,66.071V12.403h89v48.086l5,5V11.903c0-2.48-2.02-4.5-4.5-4.5h-90c-2.481,0-4.5,2.02-4.5,4.5v54.668
+			c0,2.48,2.019,4.5,4.5,4.5h36.012v14.254c0,1.721,1.398,3.119,3.117,3.119h9.741c1.719,0,3.116-1.398,3.116-3.119V71.071H91.6
+			l-5-5H5z M43.629,85.325V71.071h9.741l0.002,14.256L43.629,85.325z" fill="url(#icon-gradient)" />
+      <!-- Additional paths updated with the same gradient -->
+    </g>
+  </g>
+</svg>
